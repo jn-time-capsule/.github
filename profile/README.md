@@ -88,7 +88,7 @@ Time Capsule은 개발 과정에서의 고민, 설계 의도, 기술적 선택�
 </details>
 
 
-
+<br><br>
 ---
 
 이 저장소는 Time Capsule 팀의 프로젝트 기록 공간입니다.  
