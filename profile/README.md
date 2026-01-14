@@ -27,9 +27,7 @@ Time Capsule은 개발 과정에서의 고민, 설계 의도, 기술적 선택�
 ## 프로젝트 모아보기
 
 <details>
-<summary>
-<h1> 나눠나눠 (Nanonano) </h1>
-</summary>
+<summary> <h3> 나눠나눠 (Nanonano) </h3> </summary>
 
 **회차 별 결제 금액 + 참여자**만 입력하면  
 각자 부담액을 **깔끔하게 자동 정산**해주는 반응형 웹 서비스입니다.  
@@ -38,23 +36,18 @@ Time Capsule은 개발 과정에서의 고민, 설계 의도, 기술적 선택�
 > ✅ 비회원 즉시 계산 기능  
 > ✅ 회원은 모임 목록 저장/조회 → 링크 공유까지
 
----
-
-**“정산은 빠르게, 공유는 편하게, 기록은 깔끔하게.”**
-
----
+**“정산은 빠르게, 공유는 편하게, 기록은 깔끔하게.”**  
 
 ## 🖼️ 미리보기 (Screenshots)
 
-| 홈 | 로그인 | 편집/정산 |
-| --- | --- | --- |
-|  |  |  |
+| 홈 | 로그인 |
+| --- | --- |
+| <img width="860" height="2268" alt="image" src="https://github.com/user-attachments/assets/fc47b271-3a46-4bdb-8765-e8566cdbae4a" /> | <img width="860" height="1864" alt="image" src="https://github.com/user-attachments/assets/71028291-4b08-4df3-953b-e710d3d73d08" /> |
 
-| 결과 | 모임 목록 | 공유 링크(읽기 전용) |
-| --- | --- | --- |
-|  |  |  |
 
----
+| 편집/정산 | 모임 목록 | 공유 링크(읽기 전용) |
+| --- | --- | --- |
+| <img width="860" height="3742" alt="image" src="https://github.com/user-attachments/assets/e59b40c4-a5ad-4b15-a138-082063774770" /> | <img width="860" height="2980" alt="image" src="https://github.com/user-attachments/assets/2362617e-9820-42dd-b9d4-1e4c92563aad" /> | <img width="744" height="2123" alt="image" src="https://github.com/user-attachments/assets/355ecce8-958c-4198-82de-b6aeea58b927" /> |
 
 ## ✅ 주요 기능
 
@@ -75,9 +68,6 @@ Time Capsule은 개발 과정에서의 고민, 설계 의도, 기술적 선택�
   - 결과를 링크로 공유 (읽기 전용)
   - 공유 링크는 1주일 뒤 자동 만료
 
----
-
-
 ## 🧾 사용 흐름
 
 1. 새 모임 만들기
@@ -89,8 +79,6 @@ Time Capsule은 개발 과정에서의 고민, 설계 의도, 기술적 선택�
 4. 정산 결과 확인
 5. (회원) 링크 공유
 
----
-
 ## 🔗 링크 공유
 
 - 공유 링크는 읽기 전용(결과 확인용)
@@ -98,6 +86,8 @@ Time Capsule은 개발 과정에서의 고민, 설계 의도, 기술적 선택�
 - 만료 이후에는 링크로 접근해도 결과를 볼 수 없어요
 
 </details>
+
+
 
 ---
 
